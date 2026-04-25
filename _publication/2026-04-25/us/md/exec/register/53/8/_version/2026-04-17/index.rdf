@@ -1,0 +1,142 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-04-25</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="http://regs.maryland.gov/us/md/exec/register/53/8/us/md/exec/register/53/53-8.pdf"/>
+    <dcterms:isVersionOf rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/us/md/exec/register/53/8"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+None(§§ .04 – .06)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Maryland Register, Volume 53, Issue 8</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2026-04-25/2026-04-17]: Maryland Register, Volume 53, Issue 8</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2026-04-17</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-04-27</oll:dateEffective>
+    <oll:docId>Maryland Register, Volume 53, Issue 8</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8/_changes"/>
+    <oll:isPartOfPublication rdf:resource="http://regs.maryland.gov/_publication/2026-04-25"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations">
+    <oll:cite xml:lang="en"/>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/emergency">
+    <oll:cite xml:lang="en"/>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|emergency|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations/emergency</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/emergency/26-056-E">
+    <oll:cite xml:lang="en">26-056-E</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|emergency|26-056-E|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations/emergency/26-056-E</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final">
+    <oll:cite xml:lang="en"/>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|final|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations/final</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-182-F">
+    <oll:cite xml:lang="en">25-182-F</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|final|25-182-F|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations/final/25-182-F</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-204-F">
+    <oll:cite xml:lang="en">25-204-F</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|final|25-204-F|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations/final/25-204-F</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-226-F">
+    <oll:cite xml:lang="en">25-226-F</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|final|25-226-F|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations/final/25-226-F</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-249-F">
+    <oll:cite xml:lang="en">25-249-F</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|final|25-249-F|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations/final/25-249-F</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-294-F-I">
+    <oll:cite xml:lang="en">25-294-F-I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|final|25-294-F-I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations/final/25-294-F-I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-300-F">
+    <oll:cite xml:lang="en">25-300-F</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|final|25-300-F|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations/final/25-300-F</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-306-F">
+    <oll:cite xml:lang="en">25-306-F</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|final|25-306-F|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations/final/25-306-F</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-321-F">
+    <oll:cite xml:lang="en">25-321-F</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|final|25-321-F|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations/final/25-321-F</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/26-004-F">
+    <oll:cite xml:lang="en">26-004-F</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|final|26-004-F|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations/final/26-004-F</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/26-007-F">
+    <oll:cite xml:lang="en">26-007-F</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Maryland Register, Volume 53, Issue 8|regulations|final|26-007-F|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/register/53/8#regulations/final/26-007-F</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8/_changes">
+    <rdf:_10 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-294-F-I"/>
+    <rdf:_11 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-300-F"/>
+    <rdf:_12 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-306-F"/>
+    <rdf:_13 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-321-F"/>
+    <rdf:_14 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/26-004-F"/>
+    <rdf:_15 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/26-007-F"/>
+    <rdf:_1 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8"/>
+    <rdf:_2 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations"/>
+    <rdf:_3 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/emergency"/>
+    <rdf:_4 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/emergency/26-056-E"/>
+    <rdf:_5 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final"/>
+    <rdf:_6 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-182-F"/>
+    <rdf:_7 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-204-F"/>
+    <rdf:_8 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-226-F"/>
+    <rdf:_9 rdf:resource="http://regs.maryland.gov/_publication/2026-04-25/_date/2026-04-17/us/md/exec/register/53/8#regulations/final/25-249-F"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
