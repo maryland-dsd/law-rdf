@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "53",
+      "url": "/us/md/exec/register/53",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|53|",
+      "docs_changes": {
+        "Maryland Register, Volume 53, Issue 18": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Maryland Register, Volume 53, Issue 18",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/53/18",
+      "doc_mpath": "Maryland Register, Volume 53, Issue 18|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|53|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 53, Issue 18",
+      "path": "regulations",
+      "ptag": "container",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/53/18#regulations",
+      "doc_mpath": "Maryland Register, Volume 53, Issue 18|regulations|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|53|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 53, Issue 18",
+      "path": "regulations|final",
+      "ptag": "container",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/53/18#regulations/final",
+      "doc_mpath": "Maryland Register, Volume 53, Issue 18|regulations|final|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|53|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 53, Issue 18",
+      "path": "regulations|final|26-061-F",
+      "ptag": "container",
+      "cite": "26-061-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/53/18#regulations/final/26-061-F",
+      "doc_mpath": "Maryland Register, Volume 53, Issue 18|regulations|final|26-061-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|53|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 53, Issue 18",
+      "path": "regulations|final|26-063-F",
+      "ptag": "container",
+      "cite": "26-063-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/53/18#regulations/final/26-063-F",
+      "doc_mpath": "Maryland Register, Volume 53, Issue 18|regulations|final|26-063-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|53|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 53, Issue 18",
+      "path": "regulations|final|26-078-F",
+      "ptag": "container",
+      "cite": "26-078-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/53/18#regulations/final/26-078-F",
+      "doc_mpath": "Maryland Register, Volume 53, Issue 18|regulations|final|26-078-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|53|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 53, Issue 18",
+      "path": "regulations|final|26-081-F",
+      "ptag": "container",
+      "cite": "26-081-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/53/18#regulations/final/26-081-F",
+      "doc_mpath": "Maryland Register, Volume 53, Issue 18|regulations|final|26-081-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|53|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 53, Issue 18",
+      "path": "regulations|final|26-095-F",
+      "ptag": "container",
+      "cite": "26-095-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/53/18#regulations/final/26-095-F",
+      "doc_mpath": "Maryland Register, Volume 53, Issue 18|regulations|final|26-095-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|53|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-07-06-01",
+  "codified_date": "2026-09-04",
+  "reasons": {
+    "Maryland Register, Volume 53, Issue 18": [
+      "created"
+    ]
+  }
+}
