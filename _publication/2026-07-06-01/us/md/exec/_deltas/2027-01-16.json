@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "14|17|23",
+      "ptag": "container",
+      "cite": "14.17.23",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/exec/comar/14.17.23",
+      "doc_mpath": "Code of Maryland Regulations|14|17|23|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-07-06-01",
+  "codified_date": "2027-01-16",
+  "reasons": {
+    "Maryland Register, Volume 53, Issue 17": [
+      "expired"
+    ]
+  }
+}
