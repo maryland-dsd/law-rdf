@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "11|02|03",
+      "ptag": "container",
+      "cite": "11.02.03",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/11.02.03",
+      "doc_mpath": "Code of Maryland Regulations|11|02|03|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "11|02|03|.11",
+      "ptag": "section",
+      "cite": "11.02.03.11",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/11.02.03.11",
+      "doc_mpath": "Code of Maryland Regulations|11|02|03|.11|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "11|02|03|.19",
+      "ptag": "section",
+      "cite": "11.02.03.19",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/11.02.03.19",
+      "doc_mpath": "Code of Maryland Regulations|11|02|03|.19|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "11|02|03|.20",
+      "ptag": "section",
+      "cite": "11.02.03.20",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/11.02.03.20",
+      "doc_mpath": "Code of Maryland Regulations|11|02|03|.20|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "11|02|03|.21",
+      "ptag": "section",
+      "cite": "11.02.03.21",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/md/exec/comar/11.02.03.21",
+      "doc_mpath": "Code of Maryland Regulations|11|02|03|.21|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-10-02",
+  "codified_date": "2027-03-03",
+  "reasons": {
+    "Maryland Register, Volume 53, Issue 20": [
+      "expired"
+    ]
+  }
+}
