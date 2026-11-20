@@ -50,63 +50,15 @@ Title 36 MARYLAND STATE LOTTERY AND GAMING CONTROL AGENCY
     <oll:hasChanges rdf:resource="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/_changes"/>
     <oll:isPartOfPublication rdf:resource="http://regs.maryland.gov/_publication/2026-11-06"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.01">
-    <oll:cite xml:lang="en">26.04.12.01</oll:cite>
-    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|26|04|12|.01|</oll:documentMaterializedPath>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/01.01.2017.31">
+    <oll:cite xml:lang="en">01.01.2017.31</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|01|01|2017|.31|</oll:documentMaterializedPath>
     <oll:ptag xml:lang="en">section</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
-    <oll:url xml:lang="en">/us/md/exec/comar/26.04.12.01</oll:url>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.02">
-    <oll:cite xml:lang="en">26.04.12.02</oll:cite>
-    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|26|04|12|.02|</oll:documentMaterializedPath>
-    <oll:ptag xml:lang="en">section</oll:ptag>
-    <oll:status xml:lang="en">Element added</oll:status>
-    <oll:url xml:lang="en">/us/md/exec/comar/26.04.12.02</oll:url>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.03">
-    <oll:cite xml:lang="en">26.04.12.03</oll:cite>
-    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|26|04|12|.03|</oll:documentMaterializedPath>
-    <oll:ptag xml:lang="en">section</oll:ptag>
-    <oll:status xml:lang="en">Element added</oll:status>
-    <oll:url xml:lang="en">/us/md/exec/comar/26.04.12.03</oll:url>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.04">
-    <oll:cite xml:lang="en">26.04.12.04</oll:cite>
-    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|26|04|12|.04|</oll:documentMaterializedPath>
-    <oll:ptag xml:lang="en">section</oll:ptag>
-    <oll:status xml:lang="en">Element added</oll:status>
-    <oll:url xml:lang="en">/us/md/exec/comar/26.04.12.04</oll:url>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.05">
-    <oll:cite xml:lang="en">26.04.12.05</oll:cite>
-    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|26|04|12|.05|</oll:documentMaterializedPath>
-    <oll:ptag xml:lang="en">section</oll:ptag>
-    <oll:status xml:lang="en">Element added</oll:status>
-    <oll:url xml:lang="en">/us/md/exec/comar/26.04.12.05</oll:url>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.06">
-    <oll:cite xml:lang="en">26.04.12.06</oll:cite>
-    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|26|04|12|.06|</oll:documentMaterializedPath>
-    <oll:ptag xml:lang="en">section</oll:ptag>
-    <oll:status xml:lang="en">Element added</oll:status>
-    <oll:url xml:lang="en">/us/md/exec/comar/26.04.12.06</oll:url>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.07">
-    <oll:cite xml:lang="en">26.04.12.07</oll:cite>
-    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|26|04|12|.07|</oll:documentMaterializedPath>
-    <oll:ptag xml:lang="en">section</oll:ptag>
-    <oll:status xml:lang="en">Element added</oll:status>
-    <oll:url xml:lang="en">/us/md/exec/comar/26.04.12.07</oll:url>
+    <oll:url xml:lang="en">/us/md/exec/comar/01.01.2017.31</oll:url>
   </rdf:Description>
   <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/_changes">
-    <rdf:_1 rdf:resource="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.01"/>
-    <rdf:_2 rdf:resource="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.02"/>
-    <rdf:_3 rdf:resource="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.03"/>
-    <rdf:_4 rdf:resource="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.04"/>
-    <rdf:_5 rdf:resource="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.05"/>
-    <rdf:_6 rdf:resource="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.06"/>
-    <rdf:_7 rdf:resource="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/26.04.12.07"/>
+    <rdf:_1 rdf:resource="http://regs.maryland.gov/_publication/2026-11-06/_date/2026-11-20/us/md/exec/comar/01.01.2017.31"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
 </rdf:RDF>
