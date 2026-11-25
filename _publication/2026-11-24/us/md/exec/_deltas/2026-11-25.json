@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "editorial-actions",
+      "url": "",
+      "lib_mpath": "maryland-dsd/law-rdf|editorial-actions|",
+      "docs_changes": {
+        "Editor Action 2026-11-25": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "26|04|02|.01",
+      "ptag": "section",
+      "cite": "26.04.02.01",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/26.04.02.01",
+      "doc_mpath": "Code of Maryland Regulations|26|04|02|.01|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "26|04|02|.02",
+      "ptag": "section",
+      "cite": "26.04.02.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/26.04.02.02",
+      "doc_mpath": "Code of Maryland Regulations|26|04|02|.02|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "26|04|02|.08",
+      "ptag": "section",
+      "cite": "26.04.02.08",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/26.04.02.08",
+      "doc_mpath": "Code of Maryland Regulations|26|04|02|.08|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "26|04|02|.09",
+      "ptag": "section",
+      "cite": "26.04.02.09",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/26.04.02.09",
+      "doc_mpath": "Code of Maryland Regulations|26|04|02|.09|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 53, Issue 13",
+      "path": "regulations|emergency|25-138-E-I",
+      "ptag": "container",
+      "cite": "25-138-E-I",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/register/53/13#regulations/emergency/25-138-E-I",
+      "doc_mpath": "Maryland Register, Volume 53, Issue 13|regulations|emergency|25-138-E-I|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|53|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 53, Issue 13",
+      "path": "regulations|emergency|26-069-E",
+      "ptag": "container",
+      "cite": "26-069-E",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/register/53/13#regulations/emergency/26-069-E",
+      "doc_mpath": "Maryland Register, Volume 53, Issue 13|regulations|emergency|26-069-E|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|53|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-11-24",
+  "codified_date": "2026-11-25",
+  "reasons": {
+    "Editor Action 2026-11-25": [
+      "created",
+      "effective"
+    ]
+  }
+}
