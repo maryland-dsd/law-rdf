@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "26|04|02",
+      "ptag": "container",
+      "cite": "26.04.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/26.04.02",
+      "doc_mpath": "Code of Maryland Regulations|26|04|02|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-11-24",
+  "codified_date": "2027-05-30",
+  "reasons": {
+    "Editor Action 2026-11-25": [
+      "expired"
+    ]
+  }
+}
